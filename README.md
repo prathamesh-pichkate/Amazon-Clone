@@ -1,2 +1,2 @@
 # Amazon-Clone
-In this project i used the HTML,CSS for make a amazon clone.
+Amazon clone using the HTML, CSS and Javascript.
